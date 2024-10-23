@@ -1,4 +1,4 @@
-module github.com/Wsine/feishu2md
+module github.com/carbite/feishu2md
 
 go 1.21
 

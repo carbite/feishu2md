@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/Wsine/feishu2md/core"
-	"github.com/Wsine/feishu2md/utils"
+	"github.com/carbite/feishu2md/core"
+	"github.com/carbite/feishu2md/utils"
 )
 
 type ConfigOpts struct {
